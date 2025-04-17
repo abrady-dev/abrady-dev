@@ -12,7 +12,7 @@ I'm an IT student at UCF and aspiring systems admin/dev with a passion for:
 - Preparing for the CompTIA A+ certification
 
 ## 🛠️ Tools & Tech
-`Linux` `Java` `VMware` `TrueNAS SCALE` `vSphere` `Git` `Windows Server` `Networking`
+`Linux` `Java` `Python` `VMware` `TrueNAS SCALE` `vSphere` `Git` `Windows Server` `Networking`
 
 Feel free to check out my projects or reach out!
 
