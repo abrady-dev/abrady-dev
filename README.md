@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aden 👋
 
-<!--
-**abrady-dev/abrady-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student at UCF and aspiring systems admin/dev with a passion for:
+- 🖥️ Virtualization & server builds (VMware, TrueNAS, Proxmox)
+- 🧰 System administration & networking
+- 🐧 Linux enthusiast (Ubuntu, self-hosted projects)
+- 💻 Java programming & backend development
 
-Here are some ideas to get you started:
+## 🔧 Currently Working On
+- Building my own NAS & home lab
+- Improving my networking and automation skills
+- Preparing for the CompTIA A+ certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech
+`Linux` `Java` `VMware` `TrueNAS SCALE` `vSphere` `Git` `Windows Server` `Networking`
+
+Feel free to check out my projects or reach out!
+
+📫 Email - aden.brady@gmail.com
