@@ -115,10 +115,7 @@ network, with custom blocklists and regular query-log analysis to catch suspicio
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrady-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Aden's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrady-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
+#
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrady-dev&theme=tokyonight&hide_border=true" alt="GitHub streak">
